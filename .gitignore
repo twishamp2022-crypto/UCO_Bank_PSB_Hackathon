@@ -1,0 +1,86 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+*.out
+
+# Environment variables (secrets!)
+.env
+.env.*
+*.env
+
+# Dependency directories
+node_modules/
+vendor/
+packages/
+
+# Build / distribution folders
+dist/
+build/
+out/
+target/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+*.orig
+
+# Cache
+.cache/
+*.cache
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Binary / compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Mac / Linux system files
+.Trashes
+*.pid
+
+# Personal files
+bank.csv
+bank.xlsx
+bank1.xlsx
+bank2.xlsx
+bank3.xlsx
+bank3.csv
+syn_fin.csv
