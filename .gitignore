@@ -50,6 +50,7 @@ env/
 *.swp
 *.bak
 *.orig
+~$*
 
 # Cache
 .cache/
@@ -84,3 +85,4 @@ bank2.xlsx
 bank3.xlsx
 bank3.csv
 syn_fin.csv
+bank_final.csv
