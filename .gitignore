@@ -77,7 +77,7 @@ coverage/
 .Trashes
 *.pid
 
-# Personal files
+# Personal files and folders
 bank.csv
 bank.xlsx
 bank1.xlsx
